@@ -12,5 +12,10 @@ in CMD run:
 py setup.py install
 
 Problaby the other libraries (CSV, OS and pytz) are installed with the basic Python 3 installation.
-Now place the 
+Now place the FIT_to_CSV_forWin.py in the same location of the FIT file and the result will be CSV file with the same name.
+
+Juts run:
+py FIT_to_CSV_forWin.py
+
+
 
