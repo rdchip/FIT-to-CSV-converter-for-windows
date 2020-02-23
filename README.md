@@ -1,9 +1,8 @@
 # FIT-to-CVS-converter-for-windows
 
--
 The original code is from https://github.com/mcandocia/examples
 I did small modifications because the code is for Linux and the final csv file has empty line data by data. The modification that I did is in the end of write_fitfile_to_csv section. All credits is for mcandocia. 
--
+
 
 First you need to install Fitparser package. You can download it from: http://pythonhosted.org/fitparse/
 Go to the master directoy and look for setup.py using CMD (CMD windows terminal)
