@@ -1,6 +1,6 @@
 # FIT-to-CSV-converter-for-windows
 
-The original code is from https://github.com/mcandocia/examples
+The original code is from https://github.com/mcandocia/fit_processing
 I did small modifications because the code is for Linux and the final csv file has empty line for each line of data. The modification that I did is in the end of write_fitfile_to_csv section. All credits is for mcandocia. 
 
 First, you need to install Fitparse package. You can download it from: http://pythonhosted.org/fitparse/ the link in github is https://github.com/dtcooper/python-fitparse
