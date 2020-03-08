@@ -28,4 +28,4 @@ Now you can open the *.csv file with Excel and see something like this.
 <img src="picture/Capture.PNG" width=800>
 
 
-I have another proyect making a plot of the heart rate data comparing Garmin Fenix 5 Plus with H10 Polar. In this case the code is in R script. Here is the link:  
+I have another proyect making a plot of the heart rate data comparing Garmin Fenix 5 Plus with H10 Polar. In this case the code is in R script. Here is the link: https://github.com/rdchip/Heart_rate-plot.r 
