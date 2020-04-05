@@ -29,3 +29,5 @@ Now you can open the *.csv file with Excel and see something like this.
 
 
 I have another proyect making a plot of the heart rate data comparing Garmin Fenix 5 Plus with H10 Polar. In this case the code is in R script. Here is the link: https://github.com/rdchip/Heart_rate-plot.r 
+
+You can wtach the tutorial in Youtube: https://youtu.be/k8vrTdcHtt0
