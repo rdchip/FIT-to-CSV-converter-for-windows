@@ -6,7 +6,7 @@ import pytz
 
 allowed_fields = ['timestamp','position_lat','position_long', 'distance',
 'enhanced_altitude', 'altitude','enhanced_speed',
-                 'speed', 'heart_rate','temperature','cadence','fractional_cadence']
+                 'speed', 'heart_rate','temperature','cadence','fractional_cadence''absolute_pressure','cns_load','depth','n2_load','ndl_time','next_stop_depth','next_stop_time','time_to_surface','unknown_123','unknown_124','unknown_127']
 required_fields = ['timestamp']
 
 UTC = pytz.UTC
